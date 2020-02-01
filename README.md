@@ -1,5 +1,10 @@
 # Movie-Order-Page-with-HTML-CSS
 
-This is a simple page to oder one of my favourite movies: Booksmart.
+This is a simple page to order one of my favourite movies: Booksmart.
 
 I made it with only HTML and CSS.
+
+Here is a screenshot:
+
+![Showcase](https://user-images.githubusercontent.com/40691059/73590933-c49dd180-44e8-11ea-9934-18b10c4e5336.PNG)
+
